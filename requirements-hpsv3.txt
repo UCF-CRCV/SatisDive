@@ -1,0 +1,22 @@
+# Recorded pins plus required HPSv3 imports. See README.md for validation scope.
+torch==2.6.0
+torchvision==0.21.0
+transformers==4.45.2
+tokenizers==0.20.3
+accelerate==1.13.0
+huggingface-hub==0.36.2
+qwen-vl-utils==0.0.14
+peft==0.19.1
+trl==0.12.2
+numpy==2.4.4
+pillow==12.2.0
+safetensors==0.7.0
+omegaconf==2.3.0
+opencv-python==4.13.0.92
+timm==1.0.27
+einops==0.8.2
+av==17.0.1
+fire==0.7.1
+datasets==4.8.5
+matplotlib==3.10.3
+tensorboard==2.19.0
